@@ -3,7 +3,7 @@
 
 | Checkbox | ID | Problem Name|Online Judge|Year|Contest|Difficulty Level|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<ul><li>- [ ] Done</li></ul>|1|[ABCDEF](http://www.spoj.com/problems/ABCDEF/)|SPOJ|||1|
+|<ul><li>- [x] Done</li></ul>|1|[ABCDEF](http://www.spoj.com/problems/ABCDEF/)|SPOJ|||1|
 |<ul><li>- [ ] Done</li></ul>|2|[4 Values whose Sum is 0](http://acm.tju.edu.cn/toj/showp2407.html)|TJU|||1|
 |<ul><li>- [ ] Done</li></ul>|3|[Subset Sums](http://www.spoj.com/problems/SUBSUMS/)|SPOJ|||1|
 |<ul><li>- [ ] Done</li></ul>|4|[4 values whose sum is 0](http://www.spoj.com/problems/SUMFOUR/)|SPOJ|||1|
