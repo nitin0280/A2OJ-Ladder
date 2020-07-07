@@ -5,11 +5,11 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<ul><li>- [x] Done</li></ul>|1|[ABCDEF](http://www.spoj.com/problems/ABCDEF/)|SPOJ|||1|
 |<ul><li>- [ ] Done</li></ul>|2|[4 Values whose Sum is 0](http://acm.tju.edu.cn/toj/showp2407.html)|TJU|||1|
-|<ul><li>- [ ] Done</li></ul>|3|[Subset Sums](http://www.spoj.com/problems/SUBSUMS/)|SPOJ|||1|
+|<ul><li>- [x] Done</li></ul>|3|[Subset Sums](http://www.spoj.com/problems/SUBSUMS/)|SPOJ|||1|
 |<ul><li>- [x] Done</li></ul>|4|[4 values whose sum is 0](http://www.spoj.com/problems/SUMFOUR/)|SPOJ|||1|
 |<ul><li>- [ ] Done</li></ul>|5|[4 Values whose Sum is 0](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=1507)|Live Archive|2005|Europe - Southwestern|1|
 |<ul><li>- [ ] Done</li></ul>|6|[Solitaire](http://www.spoj.com/problems/SOLIT/)|SPOJ|||2|
-|<ul><li>- [ ] Done</li></ul>|7|[Drazil and His Happy Friends](http://codeforces.com/problemset/problem/515/B)|Codeforces||Codeforces Round #292 (Div. 1) & Codeforces Round #292 (Div. 2) & Codeforces Round #292 (Div. 1) & Codeforces Round #292 (Div. 2)|2|
+|<ul><li>- [x] Done</li></ul>|7|[Drazil and His Happy Friends](http://codeforces.com/problemset/problem/515/B)|Codeforces||Codeforces Round #292 (Div. 1) & Codeforces Round #292 (Div. 2) & Codeforces Round #292 (Div. 1) & Codeforces Round #292 (Div. 2)|2|
 |<ul><li>- [ ] Done</li></ul>|8|[Robbing Gringotts](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=3996)|Live Archive|2011|Asia - Amritapuri|2|
 |<ul><li>- [ ] Done</li></ul>|9|[The Morning after Halloween](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=1889)|Live Archive|2007|Asia - Tokyo|3|
 |<ul><li>- [ ] Done</li></ul>|10|[Vanya and Scales](http://codeforces.com/problemset/problem/552/C)|Codeforces||Codeforces Round #308 (Div. 2)|3|
